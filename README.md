@@ -30,7 +30,7 @@ A lightweight authentication API built with Hono.js, TypeScript, Drizzle ORM, an
 1. Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/hono-auth-api.git
+git clone https://github.com/xypefv/hono-auth-api.git
 cd hono-auth-api
 npm install
 ```
